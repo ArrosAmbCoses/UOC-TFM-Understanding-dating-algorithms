@@ -13,5 +13,3 @@ The contents are:
 - Exploration analysis of the data: Notebook where the data is processed
 
 - Prediction models: Notebook where the different approaches to an optimal model are tested
-
-- MT defense (CAT): video defense, in Catalan, of my master's thesis
