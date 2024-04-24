@@ -14,4 +14,4 @@ The contents are:
 
 - Prediction models: Notebook where the different approaches to an optimal model are tested
 
-- TM defense (CAT): video defense, in Catalan, of my master's thesis
+- MT defense (CAT): video defense, in Catalan, of my master's thesis
